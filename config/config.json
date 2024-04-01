@@ -1,0 +1,87 @@
+{
+    "key": "key",
+    "bot_args": {
+        "host": "sg.mcfallout.net",
+        "port": "25565",
+        "username": "example@example.com",
+        "auth": "microsoft",
+        "version": "1.20.1"
+    },
+    "bot": {
+        "server": 61,
+        "home": "play"
+    },
+    "discord": {
+        "bot_token": "token",
+        "bot_client_id": "id"
+    },
+    "discord_channels": {
+        "console": "id",
+        "command_record": "id",
+        "bet_record": "id",
+        "status": "id",
+        "link": "id",
+        "errors": "id"
+    },
+    "bet": {
+        "emax": 5000000,
+        "emin": 1,
+        "cmax": 10,
+        "cmin": 1,
+        "ewool": {
+            "white_wool": 1,
+            "orange_wool": 2,
+            "magenta_wool": 3,
+            "light_blue_wool": 4,
+            "yellow_wool": 5,
+            "lime_wool": 6,
+            "pink_wool": 7,
+            "gray_wool": 8,
+            "light_gray_wool": 9,
+            "cyan_wool": 10,
+            "purple_wool": 11,
+            "blue_wool": 12,
+            "brown_wool": 13,
+            "green_wool": 14,
+            "red_wool": 15,
+            "black_wool": 16
+        },
+        "cwool": {
+            "white_wool": 1,
+            "orange_wool": 2,
+            "magenta_wool": 3,
+            "light_blue_wool": 4,
+            "yellow_wool": 5,
+            "lime_wool": 6,
+            "pink_wool": 7,
+            "gray_wool": 8,
+            "light_gray_wool": 9,
+            "cyan_wool": 10,
+            "purple_wool": 11,
+            "blue_wool": 12,
+            "brown_wool": 13,
+            "green_wool": 14,
+            "red_wool": 15,
+            "black_wool": 16
+        },
+        "bet_position": [3069, 112, 5134]
+    },
+    "console": {
+        "mode": 1,
+        "public": false,
+        "chat": false,
+        "region": true,
+        "lottery": false,
+        "facility": false,
+        "trade": false,
+        "system": false,
+        "claim": true
+    },
+    "trade_text": "",
+    "lottery_text": "",
+    "facility_text": "",
+    "claim_text": "",
+    "roles": {
+        "link_role": "member"
+    }
+}
